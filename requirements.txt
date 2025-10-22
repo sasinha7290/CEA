@@ -5,4 +5,4 @@ pandas
 numpy
 scikit-learn
 scipy
-stepminer
+stepminer @ git+https:
